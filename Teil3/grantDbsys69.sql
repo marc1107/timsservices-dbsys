@@ -1,0 +1,9 @@
+GRANT SELECT ON Land TO dbsys69;
+GRANT SELECT ON FerienWhng TO dbsys69;
+GRANT SELECT ON Entfernung_FW_TA TO dbsys69;
+GRANT SELECT ON Touristenattr TO dbsys69;
+GRANT SELECT ON besitztAusstattung TO dbsys69;
+GRANT SELECT ON Ausstattung TO dbsys69;
+GRANT SELECT ON Buchung TO dbsys69;
+GRANT SELECT ON Kunde TO dbsys69;
+GRANT SELECT ON Adresse TO dbsys69;
